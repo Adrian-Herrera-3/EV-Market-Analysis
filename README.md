@@ -11,3 +11,5 @@ Vehicle efficiency
 Market segmentation
 Customer satisfaction trends
 Pricing and sales analysis
+
+![Dashboard](ev_dashboard.png)
