@@ -1,2 +1,13 @@
-# EV-Market-Analysis
-End-to-end EV market analytics project using Python, Pandas, SQLite, SQL, and Power BI. This project includes ETL data cleaning pipelines, analytical SQL views, KPI reporting, and an interactive dashboard designed to analyze EV brand performance, revenue trends, vehicle efficiency, and market segmentation.
+# EV Market Analysis
+# Project Overview
+
+This project is an end-to-end EV market analytics solution designed to analyze electric vehicle industry trends using Python, SQLite, SQL, and Power BI. The workflow demonstrates a complete analytics pipeline from raw data ingestion and cleaning to database modeling, analytical querying, and dashboard visualization.
+
+The project focuses on transforming raw EV market data into actionable business insights related to:
+
+Manufacturer performance
+Revenue generation
+Vehicle efficiency
+Market segmentation
+Customer satisfaction trends
+Pricing and sales analysis
